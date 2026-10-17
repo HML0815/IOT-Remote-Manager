@@ -1,0 +1,12 @@
+# KiCad ignores
+*.bak
+*.bck
+*-backups/
+*.kicad_pcb-bak
+*.sch-bak
+
+# Firmware / ESP32 ignores
+build/
+.pio/
+*.bin
+*.elf
